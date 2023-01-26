@@ -27,3 +27,9 @@ You can use the following commands to run the code:
 make install
 make run-dev
 ```
+
+Clean the dev environment
+
+```bash
+make clean
+```
