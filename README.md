@@ -10,6 +10,7 @@
 - [Node.js](https://nodejs.org/en/)
 - [MetaMask extension wallet](https://metamask.io/)
 - An Ethereum account in MetaMask
+- [Docker](https://docs.docker.com/engine/install/)
 
 ### Setting Up Your Environment
 
