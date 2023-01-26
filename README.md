@@ -19,11 +19,11 @@ Change the name of `.env.local.example` to `.env.local`, and fill in the followi
 NEXTAUTH_URL=http://localhost:3000
 NEXTAUTH_SECRET=somereallysecretsecret
 ```
-## Running the Example
+## Running the code
 
-You can use the following commands to run the example:
+You can use the following commands to run the code:
 
 ```bash
-yarn install
-yarn run dev
+make install
+make run-dev
 ```
