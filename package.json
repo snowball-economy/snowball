@@ -10,11 +10,10 @@
     "prepare": "next telemetry disable"
   },
   "author": "",
-  "contributors": [
-  ],
+  "contributors": [],
   "dependencies": {
     "ethers": "^5.7.1",
-    "next": "latest",
+    "next": "^13.1.6",
     "next-auth": "^4.12.2",
     "nodemailer": "^6",
     "react": "^18.2.0",
